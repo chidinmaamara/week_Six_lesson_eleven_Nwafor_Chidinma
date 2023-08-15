@@ -1,0 +1,23 @@
+        * {
+            box-sizing: border-box;
+        }
+        body {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-color: black;
+            font-size: 30px;
+            font-style:italic;
+            line-height: 1.5;
+            color:brown;
+        }
+        .container {
+            background-color: greenyellow;
+            border-radius: 4px;
+            padding: 20px;
+             box-shadow: 5px 5px 3px wheat, 8px 8px 3px white, 11px 11px 3px red, 14px 14px 3px rgb(212, 7, 161); 
+        }
+        .err{
+            color: blueviolet;
+        }

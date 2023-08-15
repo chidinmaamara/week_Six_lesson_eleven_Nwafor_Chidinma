@@ -1,0 +1,14 @@
+.error{
+    background-color: red;
+    padding: ;
+    font-size: 16px;
+    color: aliceblue;
+    width: 300px;
+    text-align: center;
+
+}
+.pushed{
+    background-color: green;
+    border-radius: 10px;
+    padding: 20px;
+}
